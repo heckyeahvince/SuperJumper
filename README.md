@@ -18,28 +18,6 @@ Super Jumper is a very simple Doodle Jump clone.
   * [NetBeans](https://github.com/libgdx/libgdx/wiki/Gradle-and-NetBeans)
   * [Commandline|Gradle on the Commandline](https://github.com/libgdx/libgdx/wiki/Gradle-on-the-Commandline)
 
-
-## TO SUBMIT:
-
-https://classroom.github.com/assignment-invitations/cfb1519bbdf5e23f9d9f9b775680620d
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
- 
-##Videocapture:
------------
-
- https://youtu.be/gQQIOVMC4a0
- 
 ##Build/Install
  
  ```shell
